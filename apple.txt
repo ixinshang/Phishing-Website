@@ -3,4 +3,4 @@
 127.0.0.1 www.Apple.appcawid.com
 127.0.0.1 www.apple.com-tlzn.cn
 127.0.0.1 appleid.com-tfrv.cn
-127.0.0.7 apted.appxsld.com
+127.0.0.1 apted.appxsld.com
