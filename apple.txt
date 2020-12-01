@@ -1,0 +1,4 @@
+# 此文本记录苹果的钓鱼网站。
+# 更新时间 2020年12月1日13:51:24
+127.0.0.1 www.Apple.appcawid.com
+127.0.0.1 www.apple.com-tlzn.cn
